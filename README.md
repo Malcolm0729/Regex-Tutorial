@@ -115,7 +115,7 @@ They are:
    - \.
    - \.
 
-The backslash ( \ ) in all of the ( \. )  is meant to tell the regex to take the (.) literally and search for that as one of the characters in the email addresses. It is aknowledging that email addresses can contain periods (.) in the naming part of the email (for example: kell.mcd@gmail.com is a valid email that would be picked up by the regex because the period os quite literally there in the name.)
+The backslash ( \ ) in all of the ( \. )  is meant to tell the regex to take the (.) literally and search for that as one of the characters in the email addresses. It is aknowledging that email addresses can contain periods (.) in the naming part of the email (for example: maltopia23@outlook.com is a valid email that would be picked up by the regex because the period os quite literally there in the name.)
 
 The same goes for where ( \. ) is found in the rest of the regex, it can, quite literally, contain a period (.). 
 
